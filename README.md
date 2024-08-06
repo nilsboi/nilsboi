@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilsboi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning fastify, vue
+- 👀 I’m interested in web development (for now backend, after doing some frontend stuf)
+- 🌱 I’m currently doing the boot.dev course
 
 
 <!---
